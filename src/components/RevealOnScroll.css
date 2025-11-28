@@ -1,0 +1,36 @@
+.reveal {
+  opacity: 0;
+  transform: translateY(40px);
+  transition: all 0.8s ease-out;
+}
+
+/* Khi hiển thị */
+.reveal.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Biến thể hiệu ứng */
+.reveal.fade {
+  transform: none;
+}
+
+.reveal.slide-up {
+  transform: translateY(40px);
+}
+
+.reveal.slide-left {
+  transform: translateX(40px);
+}
+
+.reveal.slide-right {
+  transform: translateX(-40px);
+}
+
+/* Khi visible */
+.reveal.visible.slide-up,
+.reveal.visible.slide-left,
+.reveal.visible.slide-right {
+  transform: translate(0, 0);
+  opacity: 1;
+}
