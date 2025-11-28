@@ -1,10 +1,7 @@
-import React from "react";
-
 import png from "../assets/png.png";
 import SlideUp from "../assets/jpeg.jfif";
 import png1 from "../assets/png(1).png";
 import png2 from "../assets/png(2).png";
-import png3 from "../assets/png(3).png";
 const WeddingInvitation = () => {
   return (
     <>
