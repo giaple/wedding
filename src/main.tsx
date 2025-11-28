@@ -7,7 +7,7 @@ import App from "./App.tsx";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    <HashRouter basename="/wedding">
+    <HashRouter>
       <App />
     </HashRouter>
   </StrictMode>
