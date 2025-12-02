@@ -198,7 +198,7 @@ const WeddingInviationGreenGirl = () => {
                     className="com-text-block p-absolute animation"
                   >
                     <div className="text-block">
-                      <h4 className="text-block-css full-width">Đình Giáp</h4>
+                      <h4 className="text-block-css full-width">Khánh Linh</h4>
                     </div>
                   </div>
                   <div id="w-cdlp31uy" className="p-absolute">
@@ -224,7 +224,7 @@ const WeddingInviationGreenGirl = () => {
                     className="com-text-block p-absolute animation"
                   >
                     <div className="text-block">
-                      <h4 className="text-block-css full-width">Khánh Linh</h4>
+                      <h4 className="text-block-css full-width">Đình Giáp</h4>
                     </div>
                   </div>
                   <div id="w-s0wpujoa" className="p-absolute">
@@ -386,7 +386,7 @@ const WeddingInviationGreenGirl = () => {
               >
                 <div className="text-block">
                   <p className="text-block-css full-width">
-                    NHÀ TRAI
+                    NHÀ GÁI
                     <br />
                   </p>
                 </div>
@@ -397,45 +397,12 @@ const WeddingInviationGreenGirl = () => {
               >
                 <div className="text-block">
                   <p className="text-block-css full-width">
-                    An Phước, Đồng Nai
-                  </p>
-                </div>
-              </div>
-              <div
-                id="w-ig5jcswu"
-                className="com-text-block p-absolute animation"
-              >
-                <div className="text-block">
-                  <p className="text-block-css full-width">
-                    ÔNG LÊ ĐÌNH CƯƠNG <br />
-                    BÀ LÊ THỊ LEN
-                    <br />
-                  </p>
-                </div>
-              </div>
-              <div
-                id="w-j8n1a9zw"
-                className="com-text-block p-absolute animation"
-              >
-                <div className="text-block">
-                  <p className="text-block-css full-width">
-                    NHÀ GÁI
-                    <br />
-                  </p>
-                </div>
-              </div>
-              <div
-                id="w-2hyi8ra3"
-                className="com-text-block p-absolute animation"
-              >
-                <div className="text-block">
-                  <p className="text-block-css full-width">
                     Quảng Phú, Đắk Lắk
                   </p>
                 </div>
               </div>
               <div
-                id="w-bv74resi"
+                id="w-ig5jcswu"
                 className="com-text-block p-absolute animation"
               >
                 <div className="text-block">
@@ -447,12 +414,45 @@ const WeddingInviationGreenGirl = () => {
                 </div>
               </div>
               <div
+                id="w-j8n1a9zw"
+                className="com-text-block p-absolute animation"
+              >
+                <div className="text-block">
+                  <p className="text-block-css full-width">
+                    NHÀ TRAI
+                    <br />
+                  </p>
+                </div>
+              </div>
+              <div
+                id="w-2hyi8ra3"
+                className="com-text-block p-absolute animation"
+              >
+                <div className="text-block">
+                  <p className="text-block-css full-width">
+                    An Phước, Đồng Nai
+                  </p>
+                </div>
+              </div>
+              <div
+                id="w-bv74resi"
+                className="com-text-block p-absolute animation"
+              >
+                <div className="text-block">
+                  <p className="text-block-css full-width">
+                    ÔNG LÊ ĐÌNH CƯƠNG <br />
+                    BÀ LÊ THỊ LEN
+                    <br />
+                  </p>
+                </div>
+              </div>
+              <div
                 id="w-32etj2r3"
                 className="com-text-block p-absolute animation"
               >
                 <div className="text-block">
                   <h2 className="text-block-css full-width">
-                    Trân Trọng Báo Tin Lễ Thành Hôn Của
+                    Trân Trọng Báo Tin Lễ Vu Quy Của
                     <br />
                   </h2>
                 </div>
@@ -463,7 +463,7 @@ const WeddingInviationGreenGirl = () => {
               >
                 <div className="full-width full-height">
                   <div className="text-block">
-                    <h1 className="text-block-css full-width">Lê Đình Giáp</h1>
+                    <h1 className="text-block-css full-width">Phan Thị Khánh Linh</h1>
                   </div>
                 </div>
               </div>
@@ -474,7 +474,7 @@ const WeddingInviationGreenGirl = () => {
                 <div className="full-width full-height">
                   <div className="text-block">
                     <h1 className="text-block-css full-width">
-                      Phan Thị Khánh Linh
+                      Lê Đình Giáp
                     </h1>
                   </div>
                 </div>
@@ -580,7 +580,7 @@ const WeddingInviationGreenGirl = () => {
                 <div className="text-block">
                   <p className="text-block-css full-width">
                     <span style={{ fontWeight: "bold" }}>
-                      TIỆC MỪNG LỄ THÀNH HÔN
+                      TIỆC MỪNG LỄ VU QUY
                     </span>
                   </p>
                 </div>
@@ -671,9 +671,9 @@ const WeddingInviationGreenGirl = () => {
               >
                 <div className="text-block">
                   <p className="text-block-css full-width">
-                    Phùng Hưng, An Phước
+                    Ea Pốk, Cư M'gar
                     <br />
-                    Đồng Nai
+                    Đắk Lắk
                     <br />
                   </p>
                 </div>
@@ -684,14 +684,14 @@ const WeddingInviationGreenGirl = () => {
               >
                 <div className="text-block">
                   <p className="text-block-css full-width">
-                    <span style={{ fontWeight: "700" }}>Mai Lan 2</span>
+                    <span style={{ fontWeight: "700" }}>Tư Gia</span>
                     <br />
                   </p>
                 </div>
               </div>
               <a
-                href="https://maps.app.goo.gl/61Cxc4wJdvyAdkgHA"
-                title="Open link https://maps.app.goo.gl/61Cxc4wJdvyAdkgHA"
+                href="https://maps.app.goo.gl/afWH3M5Qk3kPqreK8"
+                title="Open link https://maps.app.goo.gl/afWH3M5Qk3kPqreK8"
                 id="w-i7ym6cbi"
                 className="com-button p-absolute cursor-pointer animation"
                 style={{ transition: "0.3s" }}
