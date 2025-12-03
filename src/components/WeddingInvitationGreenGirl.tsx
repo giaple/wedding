@@ -4,12 +4,15 @@ import musicIcon from "../assets/gif.gif";
 import offMusicIcon from "../assets/png.png";
 import { useEffect, useRef, useState } from "react";
 import ImageSlider from "./ImageSlider/ImageSlider";
+import { useSearchParams } from "react-router-dom";
 
 const WeddingInviationGreenGirl = () => {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const [isPlaying, setIsPlaying] = useState(false);
   const [isOpen, setIsOpen] = useState(false);
+  const [params] = useSearchParams();
 
+  const name = params.get("name");
   const togglePlay = () => {
     if (!audioRef.current) return;
 
@@ -54,8 +57,39 @@ const WeddingInviationGreenGirl = () => {
                 id="w-j6ac06mu"
                 className="com-text-block p-absolute animation"
               >
-                <div className="text-block">
+                <div
+                  className="text-block"
+                  style={{
+                    height: "100%",
+                  }}
+                >
                   <h2 className="text-block-css full-width">Mời Cưới</h2>
+                </div>
+                <div
+                  style={{
+                    textAlign: "center",
+                    height: "30px",
+                    display: "flex",
+                    flexDirection: "column",
+                  }}
+                  className="guest-name"
+                >
+                  <h2
+                    style={{
+                      fontSize: "30px",
+                      height: "25px",
+                      fontFamily: "SVN-Amstirdam.otf, sans-serif",
+                    }}
+                  >
+                    {name?.split("+").join(" ")}
+                  </h2>
+                  <span
+                    style={{
+                      fontSize: "20px",
+                    }}
+                  >
+                    .....................................................................
+                  </span>
                 </div>
               </div>
               <div
@@ -212,7 +246,7 @@ const WeddingInviationGreenGirl = () => {
                   >
                     <div className="text-block">
                       <h3 className="text-block-css full-width">
-                        10.01
+                        04.01
                         <br />
                         2026
                         <br />
@@ -463,7 +497,9 @@ const WeddingInviationGreenGirl = () => {
               >
                 <div className="full-width full-height">
                   <div className="text-block">
-                    <h1 className="text-block-css full-width">Phan Thị Khánh Linh</h1>
+                    <h1 className="text-block-css full-width">
+                      Phan Thị Khánh Linh
+                    </h1>
                   </div>
                 </div>
               </div>
@@ -473,9 +509,7 @@ const WeddingInviationGreenGirl = () => {
               >
                 <div className="full-width full-height">
                   <div className="text-block">
-                    <h1 className="text-block-css full-width">
-                      Lê Đình Giáp
-                    </h1>
+                    <h1 className="text-block-css full-width">Lê Đình Giáp</h1>
                   </div>
                 </div>
               </div>
@@ -532,9 +566,7 @@ const WeddingInviationGreenGirl = () => {
                 className="com-text-block p-absolute animation"
               >
                 <div className="text-block">
-                  <p className="text-block-css full-width">
-                    Tại Tư Gia
-                  </p>
+                  <p className="text-block-css full-width">Tại Tư Gia</p>
                 </div>
               </div>
               <div
@@ -591,7 +623,7 @@ const WeddingInviationGreenGirl = () => {
               >
                 <div className="text-block">
                   <p className="text-block-css full-width">
-                    Vào Lúc 9h00 | Chủ Nhật
+                    Vào Lúc 11h00 | Chủ Nhật
                   </p>
                 </div>
               </div>
@@ -601,7 +633,7 @@ const WeddingInviationGreenGirl = () => {
               >
                 <div className="text-block">
                   <p className="text-block-css full-width">
-                    4
+                    Ngày 4
                     <br />
                   </p>
                 </div>
@@ -690,7 +722,7 @@ const WeddingInviationGreenGirl = () => {
                 </div>
               </div>
               <a
-                href="https://maps.app.goo.gl/afWH3M5Qk3kPqreK8"
+                href="https://maps.app.goo.gl/kfM7JDMyi5ifgwzD9"
                 title="Open link https://maps.app.goo.gl/afWH3M5Qk3kPqreK8"
                 id="w-i7ym6cbi"
                 className="com-button p-absolute cursor-pointer animation"
@@ -709,7 +741,7 @@ const WeddingInviationGreenGirl = () => {
               <div id="w-m1kk35d9" className="com-html-box p-absolute">
                 <div className="frame-html-box full-width full-height">
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d299.2278068622907!2d108.06155748242081!3d12.784261573889845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3171f9477642b6e3%3A0xa66abefa9fe044c7!2zVOG6oXAgaMOzYSBUaMO6eSBD4bqjbmg!5e1!3m2!1svi!2s!4v1764367155261!5m2!1svi!2s"
+                    src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d846.342285595875!2d108.06172907264437!3d12.78478660853176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTLCsDQ3JzA0LjMiTiAxMDjCsDAzJzQyLjAiRQ!5e1!3m2!1svi!2s!4v1764776597189!5m2!1svi!2s"
                     width="600"
                     height="450"
                     style={{

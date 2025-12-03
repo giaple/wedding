@@ -4,11 +4,16 @@ import musicIcon from "../assets/gif.gif";
 import offMusicIcon from "../assets/png.png";
 import { useEffect, useRef, useState } from "react";
 import ImageSlider from "./ImageSlider/ImageSlider";
+import { useSearchParams } from "react-router-dom";
 
 const WeddingInviationGreen = () => {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const [isPlaying, setIsPlaying] = useState(false);
   const [isOpen, setIsOpen] = useState(false);
+
+  const [params] = useSearchParams();
+
+  const name = params.get("name");
 
   const togglePlay = () => {
     if (!audioRef.current) return;
@@ -35,6 +40,8 @@ const WeddingInviationGreen = () => {
     }
   }, []);
 
+  console.log("xxxxxxxxxxxxxxxxxx", name);
+
   return (
     <>
       <div className="pageview">
@@ -54,8 +61,39 @@ const WeddingInviationGreen = () => {
                 id="w-j6ac06mu"
                 className="com-text-block p-absolute animation"
               >
-                <div className="text-block">
+                <div
+                  className="text-block"
+                  style={{
+                    height: "100%",
+                  }}
+                >
                   <h2 className="text-block-css full-width">Mời Cưới</h2>
+                </div>
+                <div
+                  style={{
+                    textAlign: "center",
+                    height: "30px",
+                    display: "flex",
+                    flexDirection: "column",
+                  }}
+                  className="guest-name"
+                >
+                  <h2
+                    style={{
+                      fontSize: "30px",
+                      height: "25px",
+                      fontFamily: "SVN-Amstirdam.otf, sans-serif",
+                    }}
+                  >
+                    {name?.split("+").join(" ")}
+                  </h2>
+                  <span
+                    style={{
+                      fontSize: "20px",
+                    }}
+                  >
+                    .....................................................................
+                  </span>
                 </div>
               </div>
               <div

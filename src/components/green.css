@@ -1140,7 +1140,11 @@ a {
     top: 12px;
     left: 91.50000762939453px;
     width: 238px;
-    height: 135px;
+    height: 90px;
+  }
+  #w-j6ac06mu .guest-name {
+    font-family: "SVN-Mightiest.otf", sans-serif;
+    font-weight: bold;
   }
   #w-j6ac06mu .text-block {
     background: undefined;
@@ -1149,7 +1153,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     font-family: "SVN-Amstirdam.otf", sans-serif;
-    font-size: 90px;
+    font-size: 70px;
     text-align: center;
     --type: 0;
   }
@@ -1315,7 +1319,7 @@ a {
     --type: 0;
   }
   #w-1qpgocgm {
-    top: 147.01128387451172px;
+    top: 168.01128387451172px;
     left: 170.5052490234375px;
     width: 80px;
     height: 80px;
@@ -2243,7 +2247,7 @@ a {
     --type: 0;
   }
   #w-0m3cmvaa {
-    top: 347.27442932128906px;
+    top: 358.27442932128906px;
     left: 116.51878356933594px;
     width: 185px;
     height: 63.000003814697266px;
@@ -2254,8 +2258,8 @@ a {
   #w-0m3cmvaa .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "Ephesis-Regular.ttf", sans-serif;
-    font-size: 42px;
+    font-family: "Arial", sans-serif;
+    font-size: 22px;
     font-weight: bold;
     letter-spacing: 1px;
     text-align: center;
@@ -4378,16 +4382,20 @@ a {
     top: 12px;
     left: 91.50000762939453px;
     width: 238px;
-    height: 135px;
+    height: 90px;
   }
   #w-j6ac06mu .text-block {
     background: undefined;
+  }
+  #w-j6ac06mu .guest-name {
+    font-family: "SVN-Mightiest.otf", sans-serif;
+    font-weight: bold;
   }
   #w-j6ac06mu .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     font-family: "SVN-Amstirdam.otf", sans-serif;
-    font-size: 90px;
+    font-size: 70px;
     text-align: center;
     --type: 0;
   }
@@ -4553,7 +4561,7 @@ a {
     --type: 0;
   }
   #w-1qpgocgm {
-    top: 147.01128387451172px;
+    top: 168.01128387451172px;
     left: 170.5052490234375px;
     width: 80px;
     height: 80px;
@@ -5481,7 +5489,7 @@ a {
     --type: 0;
   }
   #w-0m3cmvaa {
-    top: 347.27442932128906px;
+    top: 358.27442932128906px;
     left: 116.51878356933594px;
     width: 185px;
     height: 63.000003814697266px;
@@ -5492,8 +5500,8 @@ a {
   #w-0m3cmvaa .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "Ephesis-Regular.ttf", sans-serif;
-    font-size: 42px;
+    font-family: "Arial", sans-serif;
+    font-size: 22px;
     font-weight: bold;
     letter-spacing: 1px;
     text-align: center;
