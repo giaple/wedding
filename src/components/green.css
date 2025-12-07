@@ -1034,7 +1034,7 @@ a {
   border-top-right-radius: 10px;
 }
 .login-popup-wrapper .popup-default-login .popup-login-content {
-  font-size: 14px;
+  font-size: 20px;
   padding: 0 20px;
   margin-top: 10px;
   line-height: 18px;
@@ -1059,7 +1059,7 @@ a {
   background-color: #e6e6e6;
   border-radius: 5px;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 600;
   cursor: pointer;
 }
@@ -2117,7 +2117,7 @@ a {
     border-style: solid;
     color: rgba(0, 0, 0, 1);
     font-family: "SVN-Mightiest.otf",sans-serif;
-    font-size: 14px;
+    font-size: 20px;
     font-style: italic;
     letter-spacing: 1px;
     text-align: center;
@@ -2154,7 +2154,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     font-family: "SVN-Mightiest.otf",sans-serif;
-    font-size: 14px;
+    font-size: 20px;
     letter-spacing: 1px;
     text-align: center;
     --type: 0;
@@ -2172,7 +2172,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     font-family: "SVN-Mightiest.otf",sans-serif;
-    font-size: 14px;
+    font-size: 20px;
     font-weight: bold;
     letter-spacing: 1px;
     text-align: center;
@@ -2223,7 +2223,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     font-family: "SVN-Mightiest.otf",sans-serif;
-    font-size: 14px;
+    font-size: 20px;
     letter-spacing: 1px;
     text-align: center;
     --type: 0;
@@ -2241,7 +2241,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     font-family: "SVN-Mightiest.otf",sans-serif;
-    font-size: 14px;
+    font-size: 20px;
     letter-spacing: 1px;
     text-align: center;
     --type: 0;
@@ -2503,7 +2503,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     font-family: "SVN-Mightiest.otf",sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     letter-spacing: 1px;
     text-align: center;
     --type: 0;
@@ -5359,7 +5359,7 @@ a {
     border-style: solid;
     color: rgba(0, 0, 0, 1);
     font-family: "SVN-Mightiest.otf",sans-serif;
-    font-size: 14px;
+    font-size: 20px;
     font-style: italic;
     letter-spacing: 1px;
     text-align: center;
@@ -5396,7 +5396,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     font-family: "SVN-Mightiest.otf",sans-serif;
-    font-size: 14px;
+    font-size: 20px;
     letter-spacing: 1px;
     text-align: center;
     --type: 0;
@@ -5414,7 +5414,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     font-family: "SVN-Mightiest.otf",sans-serif;
-    font-size: 14px;
+    font-size: 20px;
     font-weight: bold;
     letter-spacing: 1px;
     text-align: center;
@@ -5465,7 +5465,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     font-family: "SVN-Mightiest.otf",sans-serif;
-    font-size: 14px;
+    font-size: 20px;
     letter-spacing: 1px;
     text-align: center;
     --type: 0;
@@ -5483,7 +5483,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     font-family: "SVN-Mightiest.otf",sans-serif;
-    font-size: 14px;
+    font-size: 20px;
     letter-spacing: 1px;
     text-align: center;
     --type: 0;
@@ -5743,7 +5743,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     font-family: "Barlow", sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     letter-spacing: 1px;
     text-align: center;
     --type: 0;
