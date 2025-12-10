@@ -76,7 +76,7 @@ const WeddingInviationGreenGirl = () => {
                 >
                   <h2
                     style={{
-                      fontSize: "30px",
+                      fontSize: "25px",
                       height: "25px",
                       fontFamily: "SVN-Amstirdam.otf, sans-serif",
                     }}
@@ -88,7 +88,7 @@ const WeddingInviationGreenGirl = () => {
                       fontSize: "20px",
                     }}
                   >
-                    .....................................................................
+                    .................................................
                   </span>
                 </div>
               </div>

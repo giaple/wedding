@@ -1143,7 +1143,7 @@ a {
     height: 90px;
   }
   #w-j6ac06mu .guest-name {
-    font-family: "SVN-Mightiest.otf", sans-serif;
+    font-family: math;
     font-weight: bold;
   }
   #w-j6ac06mu .text-block {
@@ -1213,7 +1213,7 @@ a {
     --type: 0;
   }
   #w-4aeii491 {
-    top: 124px;
+    top: 145px;
     left: 84.5px;
     width: 251px;
     height: 335px;
@@ -1253,7 +1253,7 @@ a {
   #w-bnrugie4 .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "SVN-Mightiest.otf", sans-serif;
+    font-family: math;
     font-size: 26px;
     letter-spacing: 3px;
     text-align: center;
@@ -1272,7 +1272,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     color: rgba(0, 0, 0, 0.4);
-    font-family: "Barlow", sans-serif;
+    font-family: math;
     font-size: 21px;
     letter-spacing: 1px;
     text-align: center;
@@ -1740,7 +1740,7 @@ a {
   #w-3hbjzhq6 .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "SVN-Mightiest.otf", sans-serif;
+    font-family: math;
     font-size: 26px;
     letter-spacing: 2px;
     line-height: 1;
@@ -1859,7 +1859,7 @@ a {
   #w-gksl9w4l .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "UTM-Cafeta.ttf", sans-serif;
+    font-family: math;
     font-size: 16px;
     font-style: italic;
     text-align: start;
@@ -1880,6 +1880,7 @@ a {
     font-size: 13px;
     text-align: start;
     --type: 0;
+    font-family: "Ephesis-Regular.ttf", sans-serif;
   }
   #w-ig5jcswu {
     top: 166.26133728027344px;
@@ -1893,7 +1894,7 @@ a {
   #w-ig5jcswu .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "UTM-Cafeta.ttf", sans-serif;
+    font-family: math;
     font-size: 16px;
     text-align: start;
     --type: 0;
@@ -1910,7 +1911,7 @@ a {
   #w-j8n1a9zw .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "UTM-Cafeta.ttf", sans-serif;
+    font-family: math;
     font-size: 16px;
     font-style: italic;
     text-align: start;
@@ -1928,9 +1929,11 @@ a {
   #w-2hyi8ra3 .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-size: 13px;
+    font-size: 18px;
     text-align: start;
     --type: 0;
+    font-family: "Ephesis-Regular.ttf", sans-serif;
+    font-weight: bold;
   }
   #w-bv74resi {
     top: 285.7443103790283px;
@@ -1944,7 +1947,7 @@ a {
   #w-bv74resi .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "UTM-Cafeta.ttf", sans-serif;
+    font-family: math;
     font-size: 16px;
     text-align: start;
     --type: 0;
@@ -1963,8 +1966,8 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     color: rgba(0, 0, 0, 1);
-    font-family: "SVN-Mightiest.otf",sans-serif;
-    font-size: 20px;
+    font-family: math;
+    font-size: 18px;
     line-height: 1.5;
     text-align: center;
     --type: 0;
@@ -2096,7 +2099,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     color: rgba(0, 0, 0, 1);
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 25px;
     font-style: italic;
     line-height: 1.5;
@@ -2116,7 +2119,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     color: rgba(0, 0, 0, 1);
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 20px;
     font-style: italic;
     letter-spacing: 1px;
@@ -2136,7 +2139,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     color: rgba(0, 0, 0, 1);
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 17px;
     text-align: center;
     --type: 0;
@@ -2153,7 +2156,7 @@ a {
   #w-k8kl83qy .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 20px;
     letter-spacing: 1px;
     text-align: center;
@@ -2171,7 +2174,7 @@ a {
   #w-kbgnz2rp .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 20px;
     font-weight: bold;
     letter-spacing: 1px;
@@ -2222,7 +2225,7 @@ a {
   #w-6amly90s .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 20px;
     letter-spacing: 1px;
     text-align: center;
@@ -2240,14 +2243,14 @@ a {
   #w-rvjhix10 .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 20px;
     letter-spacing: 1px;
     text-align: center;
     --type: 0;
   }
   #w-0m3cmvaa {
-    top: 358.27442932128906px;
+    top: 366.27442932128906px;
     left: 116.51878356933594px;
     width: 185px;
     height: 63.000003814697266px;
@@ -2258,7 +2261,7 @@ a {
   #w-0m3cmvaa .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 22px;
     font-weight: bold;
     letter-spacing: 1px;
@@ -2502,7 +2505,7 @@ a {
   #w-b8ao84la .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 16px;
     letter-spacing: 1px;
     text-align: center;
@@ -2520,7 +2523,7 @@ a {
   #w-8799m2jd .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "SVN-Mightiest.otf", sans-serif;
+    font-family: math;
     font-size: 18px;
     letter-spacing: 1px;
     text-align: center;
@@ -2538,7 +2541,7 @@ a {
     border-style: solid;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     color: rgba(255, 255, 255, 1);
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 15px;
     background: rgba(57, 71, 58, 1);
     --type: 0;
@@ -2561,7 +2564,7 @@ a {
     height: 230px;
   }
   #w-gpi1okjt {
-    top: 0px;
+    top: -3px;
     left: 0px;
     width: 421px;
     height: 48px;
@@ -2612,7 +2615,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     color: rgba(0, 0, 0, 1);
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 26px;
     line-height: 1.5;
     text-align: center;
@@ -2660,7 +2663,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     color: rgba(0, 0, 0, 1);
-    font-family: "SVN-Mightiest.otf", sans-serif;
+    font-family: math;
     font-size: 25px;
     line-height: 1;
     text-align: center;
@@ -3514,7 +3517,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     color: rgba(0, 0, 0, 1);
-    font-family: "SVN-Mightiest.otf", sans-serif;
+    font-family: math;
     font-size: 40px;
     text-align: center;
     --type: 0;
@@ -3558,7 +3561,7 @@ a {
   #w-k0vu3e5e .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "Barlow", sans-serif;
+    font-family: math;
     font-size: 17px;
     text-align: center;
     --type: 0;
@@ -4388,7 +4391,7 @@ a {
     background: undefined;
   }
   #w-j6ac06mu .guest-name {
-    font-family: "SVN-Mightiest.otf", sans-serif;
+    font-family: math;
     font-weight: bold;
   }
   #w-j6ac06mu .text-block-css {
@@ -4427,7 +4430,7 @@ a {
     --type: 0;
   }
   #w-q1wlsumy {
-    top: 155px;
+    top: 174px;
     left: 35px;
     width: 350px;
     height: 490px;
@@ -4455,7 +4458,7 @@ a {
     --type: 0;
   }
   #w-4aeii491 {
-    top: 124px;
+    top: 145px;
     left: 84.5px;
     width: 251px;
     height: 335px;
@@ -4495,7 +4498,7 @@ a {
   #w-bnrugie4 .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "SVN-Mightiest.otf", sans-serif;
+    font-family: math;
     font-size: 26px;
     letter-spacing: 3px;
     text-align: center;
@@ -4514,7 +4517,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     color: rgba(0, 0, 0, 0.4);
-    font-family: "Barlow", sans-serif;
+    font-family: math;
     font-size: 21px;
     letter-spacing: 1px;
     text-align: center;
@@ -4533,7 +4536,7 @@ a {
     background: rgba(255, 255, 255, 1);
   }
   #w-3udt7eao {
-    top: 155px;
+    top: 174px;
     left: 35px;
     width: 350px;
     height: 490px;
@@ -4982,7 +4985,7 @@ a {
   #w-3hbjzhq6 .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "SVN-Mightiest.otf", sans-serif;
+    font-family: math;
     font-size: 26px;
     letter-spacing: 2px;
     line-height: 1;
@@ -5101,7 +5104,7 @@ a {
   #w-gksl9w4l .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "UTM-Cafeta.ttf", sans-serif;
+    font-family: math;
     font-size: 16px;
     font-style: italic;
     text-align: start;
@@ -5119,9 +5122,11 @@ a {
   #w-91jxhp0m .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-size: 13px;
+    font-weight: bold;
+    font-size: 18px;
     text-align: start;
     --type: 0;
+    font-family: "Ephesis-Regular.ttf", sans-serif;
   }
   #w-ig5jcswu {
     top: 166.26133728027344px;
@@ -5135,7 +5140,7 @@ a {
   #w-ig5jcswu .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "UTM-Cafeta.ttf", sans-serif;
+    font-family: math;
     font-size: 16px;
     text-align: start;
     --type: 0;
@@ -5152,7 +5157,7 @@ a {
   #w-j8n1a9zw .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "UTM-Cafeta.ttf", sans-serif;
+    font-family: math;
     font-size: 16px;
     font-style: italic;
     text-align: start;
@@ -5170,9 +5175,11 @@ a {
   #w-2hyi8ra3 .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-size: 13px;
+    font-size: 18px;
     text-align: start;
     --type: 0;
+    font-weight: bold;
+    font-family: "Ephesis-Regular.ttf", sans-serif;
   }
   #w-bv74resi {
     top: 285.7443103790283px;
@@ -5186,7 +5193,7 @@ a {
   #w-bv74resi .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "UTM-Cafeta.ttf", sans-serif;
+    font-family: math;
     font-size: 16px;
     text-align: start;
     --type: 0;
@@ -5205,8 +5212,8 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     color: rgba(0, 0, 0, 1);
-    font-family: "SVN-Mightiest.otf",sans-serif;
-    font-size: 20px;
+    font-family: math;
+    font-size: 18px;
     line-height: 1.5;
     text-align: center;
     --type: 0;
@@ -5338,7 +5345,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     color: rgba(0, 0, 0, 1);
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 25px;
     font-style: italic;
     line-height: 1.5;
@@ -5358,7 +5365,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     color: rgba(0, 0, 0, 1);
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 20px;
     font-style: italic;
     letter-spacing: 1px;
@@ -5378,7 +5385,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     color: rgba(0, 0, 0, 1);
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 17px;
     text-align: center;
     --type: 0;
@@ -5395,7 +5402,7 @@ a {
   #w-k8kl83qy .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 20px;
     letter-spacing: 1px;
     text-align: center;
@@ -5413,7 +5420,7 @@ a {
   #w-kbgnz2rp .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 20px;
     font-weight: bold;
     letter-spacing: 1px;
@@ -5464,7 +5471,7 @@ a {
   #w-6amly90s .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 20px;
     letter-spacing: 1px;
     text-align: center;
@@ -5482,14 +5489,14 @@ a {
   #w-rvjhix10 .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 20px;
     letter-spacing: 1px;
     text-align: center;
     --type: 0;
   }
   #w-0m3cmvaa {
-    top: 358.27442932128906px;
+    top: 366.27442932128906px;
     left: 116.51878356933594px;
     width: 185px;
     height: 63.000003814697266px;
@@ -5500,7 +5507,7 @@ a {
   #w-0m3cmvaa .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 22px;
     font-weight: bold;
     letter-spacing: 1px;
@@ -5742,7 +5749,7 @@ a {
   #w-b8ao84la .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "Barlow", sans-serif;
+    font-family: math;
     font-size: 16px;
     letter-spacing: 1px;
     text-align: center;
@@ -5760,7 +5767,7 @@ a {
   #w-8799m2jd .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "SVN-Mightiest.otf", sans-serif;
+    font-family: math;
     font-size: 18px;
     letter-spacing: 1px;
     text-align: center;
@@ -5778,7 +5785,7 @@ a {
     border-style: solid;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     color: rgba(255, 255, 255, 1);
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 15px;
     background: rgba(57, 71, 58, 1);
     --type: 0;
@@ -5801,7 +5808,7 @@ a {
     height: 230px;
   }
   #w-gpi1okjt {
-    top: 0px;
+    top: -3px;
     left: 0px;
     width: 421px;
     height: 48px;
@@ -5852,7 +5859,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     color: rgba(0, 0, 0, 1);
-    font-family: "SVN-Mightiest.otf",sans-serif;
+    font-family: math;
     font-size: 26px;
     line-height: 1.5;
     text-align: center;
@@ -5900,7 +5907,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     color: rgba(0, 0, 0, 1);
-    font-family: "SVN-Mightiest.otf", sans-serif;
+    font-family: math;
     font-size: 25px;
     line-height: 1;
     text-align: center;
@@ -6755,7 +6762,7 @@ a {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
     color: rgba(0, 0, 0, 1);
-    font-family: "SVN-Mightiest.otf", sans-serif;
+    font-family: math;
     font-size: 40px;
     text-align: center;
     --type: 0;
@@ -6799,7 +6806,7 @@ a {
   #w-k0vu3e5e .text-block-css {
     border-color: rgba(229, 231, 235, 1);
     border-style: solid;
-    font-family: "Barlow", sans-serif;
+    font-family: math;
     font-size: 17px;
     text-align: center;
     --type: 0;
