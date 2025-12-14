@@ -88,7 +88,7 @@ const WeddingInviationGreenGirl = () => {
                       fontSize: "20px",
                     }}
                   >
-                    .................................................
+                    ...................................
                   </span>
                 </div>
               </div>
@@ -810,7 +810,6 @@ const WeddingInviationGreenGirl = () => {
                   "https://res.cloudinary.com/dfixhupch/image/upload/v1764359656/HT__3562_xlmzwr.jpg",
                   "https://res.cloudinary.com/dfixhupch/image/upload/v1764359656/HT__3584_rldos0.jpg",
                   "https://res.cloudinary.com/dfixhupch/image/upload/v1764359653/HT__3154_qgyayh.jpg",
-                  "https://res.cloudinary.com/dfixhupch/image/upload/v1764359653/HT__3265_tgv76m.jpg",
                   "https://res.cloudinary.com/dfixhupch/image/upload/v1764359653/HT__3336_wgn5vy.jpg",
                   "https://res.cloudinary.com/dfixhupch/image/upload/v1764359653/HT__3503_g8vpox.jpg",
                   "https://res.cloudinary.com/dfixhupch/image/upload/v1764359653/HT__3181_noki7e.jpg",
