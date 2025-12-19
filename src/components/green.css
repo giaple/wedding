@@ -1144,7 +1144,6 @@ a {
   }
   #w-j6ac06mu .guest-name {
     font-family: math;
-    font-weight: bold;
   }
   #w-j6ac06mu .text-block {
     background: undefined;
@@ -4391,8 +4390,7 @@ a {
     background: undefined;
   }
   #w-j6ac06mu .guest-name {
-    font-family: math;
-    font-weight: bold;
+    font-family:math;
   }
   #w-j6ac06mu .text-block-css {
     border-color: rgba(229, 231, 235, 1);
